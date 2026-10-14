@@ -1,0 +1,17 @@
+# Data manipulation
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+catboost
+
+# Data profiling / EDA
+fg-data-profiling
+
+fastapi

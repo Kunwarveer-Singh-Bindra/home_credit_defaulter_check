@@ -15,3 +15,6 @@ catboost
 fg-data-profiling
 
 fastapi
+
+# App
+streamlit
